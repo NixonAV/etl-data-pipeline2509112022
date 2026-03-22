@@ -1,0 +1,14 @@
+id_producto,producto,precio,id_proveedor,reject_reason
+PR1020,Proyector 20,,P313,precio_invalido; 
+PR1021,Audífonos 21,,P333,precio_invalido; 
+PR1023,Tablet 23,,P302,precio_invalido; 
+PR1055,Mouse 55,,P332,precio_invalido; 
+PR1094,Silla 94,,P333,precio_invalido; 
+PR1096,Disco SSD 96,,P314,precio_invalido; 
+PR1135,Mouse 135,,P312,precio_invalido; 
+PR1091,Monitor 91,34.16,P306,duplicado; 
+PR1005,Router 5,725.77,P322,duplicado; 
+PR1083,Silla 83,381.77 dólares,NAN,duplicado; 
+PR1065,Router 65,360.33,NAN,duplicado; 
+PR1139,Laptop 139,215.95,P310,duplicado; 
+PR1019,Mouse 19,318.41,P303,duplicado; 

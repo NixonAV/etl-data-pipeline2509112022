@@ -1,0 +1,22 @@
+id_inventario,id_producto,stock,bodega,reject_reason
+I7014,,230,Sucursal 2,id_producto_invalido; 
+I7019,PR1063,,Sucursal 1,stock_invalido; 
+I7020,PR1024,,Tránsito,stock_invalido; 
+I7022,PR1011,,Sucursal 2,stock_invalido; 
+I7043,PR1125,,Sucursal 2,stock_invalido; 
+I7062,PR1044,,Sucursal 1,stock_invalido; 
+I7079,PR1076,,Tránsito,stock_invalido; 
+I7092,PR1008,,Sucursal 1,stock_invalido; 
+I7102,PR1083,,Tránsito,stock_invalido; 
+I7111,PR1021,,Sucursal 2,stock_invalido; 
+I7112,,183,Tránsito,id_producto_invalido; 
+I7113,,238,Central,id_producto_invalido; 
+I7117,PR1013,,Sucursal 1,stock_invalido; 
+I7120,,150,Tránsito,id_producto_invalido; 
+I7130,PR1050,,Tránsito,stock_invalido; 
+I7134,PR1095,,Sucursal 1,stock_invalido; 
+I7150,PR1125,,Sucursal 2,stock_invalido; 
+I7151,,113,Sucursal 2,id_producto_invalido; 
+I7161,,71,Tránsito,id_producto_invalido; 
+I7176,PR1001,,Central,stock_invalido; 
+I7062,PR1044,,Sucursal 1,stock_invalido; 
